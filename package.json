@@ -1,0 +1,17 @@
+{
+  "name": "btl_3D",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "HHT",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "gl-matrix": "^3.3.0",
+    "three": "^0.122.0"
+  }
+}
